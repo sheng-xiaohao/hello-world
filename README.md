@@ -1,4 +1,4 @@
 # hello-world
 hello earth!
 
-Greetings from egg planet!
+Greetings from eggy planet!
